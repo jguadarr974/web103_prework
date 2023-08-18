@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
 
-![Kapture 2023-08-18 at 16 48 07](https://github.com/jguadarr974/web103_prework/assets/78454204/e52f9a47-3713-4635-ac50-945bb9e2b330)
+![Kapture 2023-08-18 at 16 48 07](https://github.com/jguadarr974/web103_prework/assets/78454204/41ecbe9a-c7ed-4bbb-8dc3-7fe574ccb950)
+
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
